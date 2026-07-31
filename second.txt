@@ -1,1 +1,1 @@
-initialising the git tool with pushing into personal GitHub account
+initialising the git tool with pushing into personal GitHub account and thank you.
